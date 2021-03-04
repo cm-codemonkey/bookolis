@@ -34,7 +34,7 @@ class Pages_controller extends Controller
 				try
 				{
 					$mail->setFrom('info@bookolis.com', Configuration::$web_page);
-					$mail->addAddress('gergomez18@gmail.com', Configuration::$web_page);
+					$mail->addAddress('info@bookolis.com', Configuration::$web_page);
 
 					if ($_POST['action'] == 'signup')
 						$mail->Subject = 'Nuevo registro';
