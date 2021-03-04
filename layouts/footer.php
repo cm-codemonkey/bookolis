@@ -3,7 +3,7 @@
         <footer class="main-footer">
             <section class="copyright">
                 <div class="container">
-                    Copyright © 2020 <b>{$vkye_webpage}</b> <i class="mdi mdi-heart text-danger"></i> {$lang.development_by} <a href="https://codemonkey.com.mx" target="_blank">Code Monkey</a>
+                    <p>Copyright © 2020 <b>{$vkye_webpage}</b> <i class="mdi mdi-heart text-danger"></i> {$lang.development_by} <a href="https://codemonkey.com.mx" target="_blank">One Consultores</a> & <a href="https://codemonkey.com.mx" target="_blank">Code Monkey</a></p>
                 </div>
             </section>
         </footer>
