@@ -512,7 +512,7 @@ footer.main-footer section.navigation {
 
     .slideshow-cover .slide-item,
     .slideshow-people .slide-item {
-        min-height: 100vh;
+        min-height: calc(100vh - 110px);
         padding: 20px;
     }
 
