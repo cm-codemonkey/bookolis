@@ -16,7 +16,7 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 <div class="item slide-item" style="background-image: url('{$path.images}cover-1.jpg');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-8 col-lg-12 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
+                            <div class="col-12 col-md-8 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
                                 <h2 class="slide-title" style="color:#fff;">{$lang.the_best_of_island}</h2>
                                 <a href="javascript:void(0);" data-button-modal="signup" class="btn btn-lg text-uppercase m-t-30" style="border-color:#f44336;background-color:#f44336;color:#fff;">{$lang.new}</a>
                             </div>
@@ -26,7 +26,7 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 <div class="item slide-item" style="background-image: url('{$path.images}cover-2.jpg');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-8 col-lg-12 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
+                            <div class="col-12 col-md-8 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
                                 <h2 class="slide-title">{$lang.more_600k_in_the_world}</h2>
                                 <a href="javascript:void(0);" data-button-modal="signup" class="btn btn-lg text-uppercase m-t-30">{$lang.signup_now}</a>
                             </div>
@@ -36,7 +36,7 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 <div class="item slide-item" style="background-image: url('{$path.images}cover-3.jpg');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-8 col-lg-12 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
+                            <div class="col-12 col-md-8 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
                                 <h2 class="slide-title" style="color:#fff;">{$lang.the_best_of_mexico}</h2>
                                 <a href="javascript:void(0);" data-button-modal="signup" class="btn btn-lg text-uppercase m-t-30" style="border-color:#f44336;background-color:#f44336;color:#fff;">{$lang.new}</a>
                             </div>
@@ -46,7 +46,7 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 <div class="item slide-item" style="background-image: url('{$path.images}cover-4.jpg');">
                     <div class="container">
                         <div class="row">
-                            <div class="col-8 col-lg-12 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
+                            <div class="col-12 col-md-8 offset-2 suffix-2 offset-lg-0 suffix-lg-0">
                                 <h2 class="slide-title" style="color:#fff;">{$lang.the_best_of_dominican_republic}</h2>
                                 <a href="javascript:void(0);" data-button-modal="signup" class="btn btn-lg text-uppercase m-t-30" style="border-color:#f44336;background-color:#f44336;color:#fff;">{$lang.new}</a>
                             </div>
@@ -71,8 +71,8 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 </ul>
             </div>
             <div class="control-buttons">
-                <button class="next"><i class="fa fa-angle-right"></i></button>
                 <button class="prev"><i class="fa fa-angle-left"></i></button>
+                <button class="next"><i class="fa fa-angle-right"></i></button>
             </div>
         </section>
         <section id="products" class="bg-icons m-t-50 p-t-50 m-b-50 p-b-50">
@@ -177,28 +177,28 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
             </div>
             <div class="container p-t-50">
                 <div class="row">
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center m-b-40 m-b-md-0">
                         <figure class="thumb-lg m-auto m-b-20">
                             <img src="{$path.images}support.svg" alt="" class="thumb-lg">
                         </figure>
                         <h4><strong>{$lang.24_7_support}</strong></h4>
                         <p>{$lang.24_7_support_text}</p>
                     </div>
-                    <div class="col-lg-3 text-center">
+                    <div class="col-lg-3 text-center m-b-40 m-b-md-0">
                         <figure class="thumb-lg m-auto m-b-20">
                             <img src="{$path.images}check.svg" alt="" class="thumb-lg">
                         </figure>
                         <h4><strong>{$lang.experts}</strong></h4>
                         <p>{$lang.experts_text}</p>
                     </div>
-                    <div class="col-lg-3 text-center m-b-20">
+                    <div class="col-lg-3 text-center m-b-40 m-b-md-0">
                         <figure class="thumb-lg m-auto m-b-20">
                             <img src="{$path.images}hotel.svg" alt="" class="thumb-lg">
                         </figure>
                         <h4><strong>{$lang.the_best_price}</strong></h4>
                         <p>{$lang.the_best_price_text}</p>
                     </div>
-                    <div class="col-lg-3 text-center m-b-20">
+                    <div class="col-lg-3 text-center">
                         <figure class="thumb-lg m-auto m-b-20">
                             <img src="{$path.images}plane.svg" alt="" class="thumb-lg">
                         </figure>
@@ -270,8 +270,8 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                 </ul>
             </div>
             <div class="control-buttons">
-                <button class="next"><i class="fa fa-angle-right"></i></button>
                 <button class="prev"><i class="fa fa-angle-left"></i></button>
+                <button class="next"><i class="fa fa-angle-right"></i></button>
             </div>
         </section>
         <section class="p-t-50 p-b-50" style="background-color:#f9f9f9;">

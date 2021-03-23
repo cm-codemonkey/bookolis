@@ -10,6 +10,11 @@ $(window).on('ajaxStop', function()
     $('body').find('[data-ajax-loader]').remove();
 });
 
+$('#trigger-nav-mobile').on('click', function()
+{
+    $('header.mobile-header').toggleClass('open');
+});
+
 !function ( $ )
 {
     "use strict"
