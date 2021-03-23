@@ -238,19 +238,26 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
         </section>
         <section class="slideshow slideshow-people">
             <div class="owl-carousel owl-theme">
-                <div class="item slide-item right">
+                <div class="item slide-item">
                     <figure>
                         <img src="{$path.images}suzanne_haire.jpg" alt="Comment">
                     </figure>
                     <h2 class="text-center">Suzanne Haire</h2>
-                    <p class="text-center">Gracias a Miguel Escobedo Bookolis Bdm, Frank Coulier, por cuidar mucho de las llegadas de mi grupo hoy! Otro grupo de boda feliz...</p>
+                    <p class="text-center">Thanks to Miguel Escobedo Bookolis Bdm, Frank Coulier, for taking great care of my group's arrivals today! Another happy wedding group ...</p>
                 </div>
-                <div class="item slide-item left">
+                <div class="item slide-item">
                     <figure>
-                        <img src="{$path.images}suzanne_haire.jpg" alt="Comment">
+                        <img src="{$path.images}marybeth_noonan.jpg" alt="Comment">
                     </figure>
-                    <h2 class="text-center">Suzanne Haire</h2>
-                    <p class="text-center">Gracias a Miguel Escobedo Bookolis Bdm, Frank Coulier, por cuidar mucho de las llegadas de mi grupo hoy! Otro grupo de boda feliz...</p>
+                    <h2 class="text-center">Marybeth Noonan</h2>
+                    <p class="text-center">I just had the best trip with them! Easy to book, included a wonderful tour and i didn’t have to plan a thing. They did it all for me! Miguel is highly personable and I would highly recommend this company.</p>
+                </div>
+                <div class="item slide-item">
+                    <figure>
+                        <img src="{$path.images}liz_haak_travel.jpg" alt="Comment">
+                    </figure>
+                    <h2 class="text-center">Liz Haak Travel</h2>
+                    <p class="text-center">Thank you @bookolis.com_latam for taking care of my group today!  @palaceresorts #sunpalacecancun here they come. @miguel.bookolis thank you!!!  Frank Coulier</p>
                 </div>
             </div>
             <div class="social-media">
