@@ -17,7 +17,7 @@
 
 		<link rel="stylesheet" href="https://cdn.codemonkey.com.mx/css/valkyrie.css?v=1.0" type="text/css" media="all" />
 		<link rel="stylesheet" href="{$path.css}icons.css?v=1.0" type="text/css" media="all" />
-		<link rel="stylesheet" href="{$path.css}styles.css?v=1.1" type="text/css" media="all" />
+		<link rel="stylesheet" href="{$path.css}styles.css?v=1.2" type="text/css" media="all" />
 		{$dependencies.css}
 	</head>
 	<body>
