@@ -65,9 +65,9 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                     <li class="list-group-item">
                         <a href="https://www.facebook.com/bookolis" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
-                    <!-- <li class="list-group-item">
-                        <a href="javascript:void(0);"><i class="fa fa-instagram"></i></a>
-                    </li> -->
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/bookolis/"><i class="fa fa-instagram"></i></a>
+                    </li>
                 </ul>
             </div>
             <div class="control-buttons">
@@ -271,9 +271,9 @@ $this->dependencies->add(['js', '{$path.js}pages/home.js?v=1.0.1']);
                     <li class="list-group-item">
                         <a href="https://www.facebook.com/bookolis" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
-                    <!-- <li class="list-group-item">
-                        <a href="javascript:void(0);"><i class="fa fa-instagram"></i></a>
-                    </li> -->
+                    <li class="list-group-item">
+                        <a href="https://www.instagram.com/bookolis/"><i class="fa fa-instagram"></i></a>
+                    </li>
                 </ul>
             </div>
             <div class="control-buttons">
