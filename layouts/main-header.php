@@ -30,9 +30,9 @@
                         <li class="list-inline-item m-0">
                             <a href="https://www.facebook.com/bookolis" class="btn" style="width:42px;height:42px;border-radius:50%;padding:0px;display:flex;align-items:center;justify-content:center;" target="_blank"><i class="fa fa-facebook"></i></a>
                         </li>
-                        <!-- <li class="list-inline-item m-0">
-                            <a href="javascript:void(0);" class="btn"><i class="fa fa-instagram"></i></a>
-                        </li> -->
+                        <li class="list-inline-item m-0">
+                            <a href="https://www.instagram.com/bookolis/" class="btn" target="_blank"><i class="fa fa-instagram"></i></a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -130,8 +130,8 @@
         <li class="list-inline-item m-0">
             <a href="https://www.facebook.com/bookolis" class="btn" style="width:42px;height:42px;border-radius:50%;padding:0px;display:flex;align-items:center;justify-content:center;" target="_blank"><i class="fa fa-facebook"></i></a>
         </li>
-        <!-- <li class="list-inline-item m-0">
-            <a href="javascript:void(0);" class="btn"><i class="fa fa-instagram"></i></a>
-        </li> -->
+        <li class="list-inline-item m-0">
+            <a href="https://www.instagram.com/bookolis/" class="btn" target="_blank"><i class="fa fa-instagram"></i></a>
+        </li>
     </ul>
 </header>
