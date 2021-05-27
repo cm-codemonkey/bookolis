@@ -239,7 +239,7 @@ class Configuration
 	 *
      * @var string $smtp_user
      */
-	public static $smtp_user = 'info@bookolis.com';
+	public static $smtp_user = 'noreply@bookolis.com';
 
 	/**
      * Contraseña de la cuenta smtp.
@@ -248,7 +248,7 @@ class Configuration
 	 *
      * @var string $smtp_pass
      */
-	public static $smtp_pass = '6$R5ha0o';
+	public static $smtp_pass = 'G84m<GL>';
 
 	/**
      * Seguridad de la encriptacion para el envio de SMTP.
